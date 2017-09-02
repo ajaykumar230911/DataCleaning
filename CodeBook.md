@@ -1,4 +1,4 @@
-How to get some profit from this =)
+How to get some profit from this =>
 
 You have to download sourse data from link below and unzip it to working directory of R Studio.
 You have to perform R script.
